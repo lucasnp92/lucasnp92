@@ -13,4 +13,4 @@
     <img align="center alt="css" src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)">
 </div>
 
-Estou estudando programação e sou apaixonado por tecnologia! Aqui compartilho meus estudos e projetos desenvolvidos ao longo desse percurso!
+Sou programador júnior e apaixonado por tecnologia! Aqui compartilho meus estudos e projetos desenvolvidos ao longo desse percurso!
